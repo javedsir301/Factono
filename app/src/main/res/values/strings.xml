@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Factono</string>
+    <string name="all_items">All items</string>
+    <string name="lets_play_this_awesome_quiz_app_to_enhance_your_knowledge">Lets play this awesome quiz app to enhance your knowledge</string>
+    <string name="quizzy_app">Quizzy App</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+</resources>

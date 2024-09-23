@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912345874248",
+    "project_id": "factono",
+    "storage_bucket": "factono.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912345874248:android:cda00724b5008a2030fd7d",
+        "android_client_info": {
+          "package_name": "com.example.factono"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqxFMK23NkMnecK2uK9Ll60cREruoJJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
